@@ -14,6 +14,6 @@
   <!-- El signo $ verifica si existe -->
   {#if $user}
     <!-- Bloque que se pinta si la condicional se cumple -->
-    <h1>Enlaces</h1>
+    <h1>Aun no hay perro 🐶</h1>
   {/if}
 </div>

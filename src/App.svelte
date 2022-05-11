@@ -10,22 +10,22 @@
 
   import { user } from "./users/User";
   /*   import Ban from "./Ban.svelte"; */
-
 </script>
+
 {#if $user === false}
-  <h1> Cargando ...</h1>
+  <h1>Cargando ...</h1>
 {:else}
-<Router>
-  <Navbar />
-  <div>
-    <Route path="/"><Home /></Route>
-    <Route path="/Horario"><Horario /></Route>
-    <Route path="/Tareas"><Tareas /></Route>
-    <Route path="/Enlaces"><Enlaces /></Route>
-    <Route path="/Curiolinks"><Curiolinks /></Route>
-    <Route path="/Login"><Login /></Route>
-  </div>
-</Router>
+  <Router>
+    <Navbar />
+    <div>
+      <Route path="/"><Home /></Route>
+      <Route path="/Horario"><Horario /></Route>
+      <Route path="/Tareas"><Tareas /></Route>
+      <Route path="/Enlaces"><Enlaces /></Route>
+      <Route path="/Curiolinks"><Curiolinks /></Route>
+      <Route path="/Login"><Login /></Route>
+    </div>
+  </Router>
 {/if}
 
 <!-- <Ban name="Juan" />
