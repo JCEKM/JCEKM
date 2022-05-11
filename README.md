@@ -5,7 +5,7 @@
 Ejecuta el siguiente comando, ubicandote en la carpeta donde quieres clonar
 
 ```bash
-git clone 
+git clone https://github.com/JCEKM/JCEKM.git
 ```
 *Ejecuta el siguiente comando, ubicandote en la carpeta donde quieres clonar, para una rama especifica usa el siguiente 
 
