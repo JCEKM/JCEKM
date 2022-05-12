@@ -147,11 +147,11 @@
     grid-auto-rows: 65px;
     gap: 0.8px;
   }
-
+  /* 
   #horario {
     background-size: 100% 2px !important;
     color: rgba(127, 255, 212, 0.801);
-  }
+  } */
 
   .days,
   .esq {
@@ -411,7 +411,7 @@
     cursor: pointer;
   }
 
-  .Fun:hover {
+  /*  .Fun:hover {
     border: 1px solid rgb(0, 255, 157);
     color: rgb(0, 255, 157);
     background: #010033;
@@ -419,7 +419,7 @@
     transition: all 0.25s ease;
     cursor: pointer;
   }
-
+ */
   .Red:hover {
     border: 1px solid rgb(255, 102, 0);
     color: rgb(255, 102, 0);
@@ -430,17 +430,17 @@
   }
 
   /*1hrs*/
-  #ArqLun:hover {
+  /* #ArqLun:hover {
     padding: 0 !important;
   }
-
+ */
   #IngMar:hover {
     padding: 0 !important;
   }
 
-  #SisVie:hover {
+  /* #SisVie:hover {
     padding: 0 !important;
-  }
+  } */
 
   /**/
   .Cel:hover {
