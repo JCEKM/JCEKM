@@ -3,6 +3,7 @@
   import { onMount } from "svelte";
   import { navigate } from "svelte-routing";
   import Btns from "../components/Btns.svelte";
+  //XD
   onMount(() => {
     //validamos si existe un usuario y si no lo redijimos al login
     if (!$user) {
