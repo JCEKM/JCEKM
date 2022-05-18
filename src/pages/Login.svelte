@@ -54,7 +54,7 @@
     position: absolute;
     transform: translate(-50%, -50%);
     left: 50%;
-    top: 50%;
+    top: 60%;
   }
   .background .shape {
     height: 200px;
@@ -69,8 +69,8 @@
   }
   .shape:last-child {
     background: linear-gradient(to right, #2fff63, #9e19f0);
-    right: -30px;
-    bottom: -80px;
+    right: 10%;
+    bottom: 2%;
   }
 
   h1 {
@@ -156,5 +156,15 @@
     left: 0;
     top: 0;
     border-radius: 10px;
+  }
+
+  /* Tamaño Mediano - Tablets */
+  @media screen and (max-width: 992px) {
+    .shape {
+      display: none;
+    }
+    .cont {
+      top: 60%;
+    }
   }
 </style>

@@ -3,7 +3,6 @@
   import { user } from "../users/User";
   import { getAuth, signOut } from "firebase/auth";
   const auth = getAuth();
-
   const cerrar = () => {
     signOut(auth)
       .then(() => {
@@ -22,6 +21,11 @@
   <nav id="menu">
     {#if $user}
       <!-- Rutas con Usuario -->
+      <img
+        class="logo"
+        src="https://dsm01pap001files.storage.live.com/y4mO2aDMgy2vhx7oa7QD2eYow0QDG-viQ0ONqperf8fuYr3GGoxJ6nUHDqPA2v6VwrU2-A9VFPZf-bR30_3WDVbUoxlMEKUE5K8uJhPlFzAvqz33YMSMKbf3tvBH0xnDgWV2xZQQFqhYn6TOMASWyg3yDIi8cDbl7hk65twIdjnhtLVJUIi_8i358ubTfrGgDwN?width=256&height=256&cropmode=none"
+        alt="Logo"
+      />
       <Link to="/"><p class="a">Home</p></Link>
       <Link to="/Horario"><p class="a">Horario</p></Link>
       <Link to="/Tareas"><p class="a">Tareas</p></Link>
@@ -110,5 +114,36 @@
     background-color: rgb(229, 35, 35);
     color: #03020b;
     border: 1px solid #03020b;
+  }
+
+  .logo {
+    width: 50px;
+    height: auto;
+    position: relative;
+    top: 1rem;
+    left: 1rem;
+  }
+
+  @media screen and (max-width: 992px) {
+    .logo {
+      left: -4rem;
+    }
+
+    button {
+      margin-top: 3px;
+      margin-left: 14rem;
+    }
+  }
+  @media screen and (max-width: 425px) {
+    .logo {
+      display: none;
+    }
+    button {
+      margin-top: 3px;
+      margin-left: auto;
+    }
+  }
+  .active {
+    color: rgb(8, 255, 173);
   }
 </style>
