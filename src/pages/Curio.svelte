@@ -142,8 +142,8 @@
 </div>
 
 <style>
-  p {
-    text-decoration: none;
+  a {
+    text-decoration: none !important;
   }
 
   .inicial {
@@ -173,6 +173,8 @@
   img {
     height: 100px;
     width: 100px;
+    margin: auto;
+    text-align: center;
   }
   /*Colores hover de las card*/
   .card:hover {

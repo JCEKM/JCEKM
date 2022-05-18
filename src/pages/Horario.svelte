@@ -20,20 +20,20 @@
       <section class="des">
         <center>
           <div class="elgrillo">
-            <div class="esq">HORAS</div>
-            <div class="days">LUNES</div>
-            <div class="days">MARTES</div>
-            <div class="days">MIERCOLES</div>
-            <div class="days">JUEVES</div>
-            <div class="days">VIERNES</div>
-            <div class="days">SABADO</div>
-            <div class="hrs">2:00pm</div>
-            <div class="hrs">3:00pm</div>
-            <div class="hrs">4:00pm</div>
-            <div class="hrs">5:00pm</div>
-            <div class="hrs">6:00pm</div>
-            <div class="hrs">7:00pm</div>
-            <div class="hrs">8:00pm</div>
+            <div class="esq"><b>HORAS</b></div>
+            <div class="days"><b>LUNES</b></div>
+            <div class="days"><b>MARTES</b></div>
+            <div class="days"><b>MIERCOLES</b></div>
+            <div class="days"><b>JUEVES</b></div>
+            <div class="days"><b>VIERNES</b></div>
+            <div class="days"><b>SABADO</b></div>
+            <div class="hrs"><b>2:00pm</b></div>
+            <div class="hrs"><b>3:00pm</b></div>
+            <div class="hrs"><b>4:00pm</b></div>
+            <div class="hrs"><b>5:00pm</b></div>
+            <div class="hrs"><b>6:00pm</b></div>
+            <div class="hrs"><b>7:00pm</b></div>
+            <div class="hrs"><b>8:00pm</b></div>
 
             <!--LUNES-->
             <a class="Hab" id="HabLun" target="_blank">
@@ -678,6 +678,10 @@
   .horario-img {
     display: none;
   }
+  a {
+    font-weight: 600;
+  }
+
   @media screen and (max-width: 700px) {
     .des {
       visibility: hidden !important;
