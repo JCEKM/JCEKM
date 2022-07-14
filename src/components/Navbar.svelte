@@ -31,6 +31,7 @@
       <Link to="/Tareas"><p class="a">Tareas</p></Link>
       <Link to="/Enlaces"><p class="a">Enlaces</p></Link>
       <Link to="/Curiolinks"><p class="a">Curiolinks</p></Link>
+      <Link to="/About"><p class="a">About</p></Link>
       <button on:click={cerrar}>Cerrar Sesion -></button>
     {:else}
       <!-- Rutas publicas -->

@@ -5,6 +5,7 @@
   import Tareas from "./pages/Tareas.svelte";
   import Enlaces from "./pages/Enlaces.svelte";
   import Curiolinks from "./pages/Curio.svelte";
+  import About from "./pages/About.svelte";
   import Login from "./pages/Login.svelte";
   import Navbar from "./components/Navbar.svelte";
 
@@ -23,6 +24,7 @@
       <Route path="/Tareas"><Tareas /></Route>
       <Route path="/Enlaces"><Enlaces /></Route>
       <Route path="/Curiolinks"><Curiolinks /></Route>
+      <Route path="/About"><About /></Route>
       <Route path="/Login"><Login /></Route>
     </div>
   </Router>
