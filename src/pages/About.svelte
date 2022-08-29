@@ -7,53 +7,110 @@
       </div>
     </div>
   </section>
-  <div class="card-container">
-    <div class="card">
-      <img src="../img/stack.gif" />
-      <div class="card__content">
-        <h2>Stack</h2>
-        <p>Es un stack o kikin bien jotito, le gustan las grandes 😏.</p>
-        <a href="">indefino</a>
+  <div class="cont">
+    <div class="god senuez">
+      <img class="god-profile-img" src="/img/senuezf.png" alt="" />
+      <div class="god-description-bk" />
+      <div class="god-logo">
+        <img
+          src="https://clipart.info/images/ccovers/1503438217real-madrid-logo-png.png"
+          alt="Real Madrid"
+        />
       </div>
-    </div>
-    <div class="card">
-      <img src="/img/temo.gif" />
-      <div class="card__content">
-        <h2>Temo</h2>
-        <p>Novio del stack, tambien le gustan las grandes, hijo del Senuez.</p>
-        <a href="">indefino</a>
+      <div class="god-title">
+        <p>Senuez</p>
       </div>
-    </div>
-    <div class="card">
-      <img src="/img/who.png" />
-      <div class="card__content">
-        <h2>WHO GOD ? CHEPE</h2>
-        <p>
-          El creador de esta rica pagina, la tiene grande y es GOD que más se
-          puede decir.
-        </p>
-        <a href="https://github.com/JoseArjona" target="_blank"
-          >GITHUB MAMADOR</a
+      <div class="god-date">
+        <p>23/01/2002</p>
+      </div>
+      <div class="god-btn">
+        <a href="https://github.com/CesarZepeda23" target="_blank"
+          >GitHub mamador</a
         >
       </div>
     </div>
-    <div class="card">
-      <img src="/img/senuez.gif" />
-      <div class="card__content">
-        <h2>Senuez</h2>
-        <p>
-          Amante del Madrid, madre orgullosa del Temo. Aunque se merece una
-          demanda.
-        </p>
-        <a href="">Indefinido</a>
+    <div class="god me">
+      <img class="god-profile-img" src="/img/mef.png" alt="" />
+      <div class="god-description-bk" />
+      <div class="god-logo">
+        <img
+          src="https://clipart.info/images/ccovers/1503438217real-madrid-logo-png.png"
+          alt="Real Madrid"
+        />
+      </div>
+      <div class="god-title">
+        <p>Chepe</p>
+      </div>
+      <div class="god-date">
+        <p>23/07/2002</p>
+      </div>
+      <div class="god-btn">
+        <a href="https://github.com/JoseArjona" target="_blank"
+          >GitHub mamador</a
+        >
       </div>
     </div>
-    <div class="card">
-      <img src="/img/lepajarre.png" />
-      <div class="card__content">
-        <h2>Le pajarre</h2>
-        <p>Le gusta picar pitos. Mr simpatico 2021; dice que ya se redimio</p>
-        <a href="#">Read More</a>
+    <div class="god pajaro">
+      <img class="god-profile-img" src="/img/lepajarref.png" alt="" />
+      <div class="god-description-bk" />
+      <div class="god-logo">
+        <img
+          src="https://th.bing.com/th/id/R.978d0d86fe29f7571103d049c52aee72?rik=xddGq6L%2f9acoaw&riu=http%3a%2f%2fpngimg.com%2fuploads%2fmanchester_united%2fmanchester_united_PNG17.png&ehk=lUsTM3gvLOnbQtSQwzmP4bJg2HEJ%2fkasTvCOzHN7YKo%3d&risl=&pid=ImgRaw&r=0"
+          alt="MUD"
+        />
+      </div>
+      <div class="god-title">
+        <p>Le Pajarre</p>
+      </div>
+      <div class="god-date">
+        <p>22/10/2002</p>
+      </div>
+      <div class="god-btn">
+        <a href="https://github.com/MarioAlejandro" target="_blank"
+          >GitHub mamador</a
+        >
+      </div>
+    </div>
+    <div class="god temo">
+      <img class="god-profile-img" src="/img/temof.png" alt="" />
+      <div class="god-description-bk" />
+      <div class="god-logo">
+        <img
+          src="https://logodownload.org/wp-content/uploads/2020/05/cruz-azul-fc-logo-0.png"
+          alt="bluegaymachine"
+        />
+      </div>
+      <div class="god-title">
+        <p>Temo</p>
+      </div>
+      <div class="god-date">
+        <p>17/04/2002</p>
+      </div>
+      <div class="god-btn">
+        <a href="https://github.com/Temo17X" target="_blank">GitHub mamador</a>
+      </div>
+    </div>
+    <div class="god">
+      <img class="god-profile-img" src="/img/gods.png" alt="GODS" />
+    </div>
+    <div class="god stack">
+      <img class="god-profile-img" src="/img/stackf.png" alt="" />
+      <div class="god-description-bk" />
+      <div class="god-logo">
+        <img
+          src="https://logodownload.org/wp-content/uploads/2020/05/cruz-azul-fc-logo-0.png"
+          alt="bluegaymachine"
+        />
+      </div>
+      <div class="god-title">
+        <p>Stack</p>
+      </div>
+      <div class="god-date">
+        <p>11/10/2002</p>
+      </div>
+      <div class="god-btn">
+        <a href="https://github.com/Enagarlol" target="_blank">GitHub mamador</a
+        >
       </div>
     </div>
   </div>
@@ -61,15 +118,21 @@
   <div class="neverContainer">
     <div class="img-container">
       <img
-        src="/img/nevergona.png" width="250px" height="250px" alt="nevergona"
+        src="/img/nevergona.png"
+        width="250px"
+        height="250px"
+        alt="nevergona"
       />
     </div>
     <div>
       <h2>Nevergona Mix</h2>
       <p>escucha nuestra playlist en YOUTUBE MUSIC</p>
-      <!-- HTML !-->
-      <br/>
-      <a href="https://github.com/JoseArjona" target="_blank" class="button-85">Play</a>
+      <br />
+      <a
+        href="https://www.youtube.com/playlist?list=PL7ZwW-YGq8oZIc7yYBnn-pfq0AjqN7Vo3"
+        target="_blank"
+        class="button-85">Play</a
+      >
     </div>
   </div>
 </body>
@@ -82,6 +145,228 @@
     place-items: center;
   }
 
+  .cont {
+    display: grid;
+    margin-top: 10vh;
+    gap: 20px;
+    margin-bottom: 20px;
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  /* Tamaño Mediano - Tablets */
+  @media screen and (max-width: 992px) {
+    .cont {
+      grid-template-columns: repeat(1, 1fr);
+    }
+    .god {
+      width: 300px;
+      min-width: 300px;
+      height: 300px;
+    }
+  }
+
+  /*God cards*/
+  .god {
+    display: inline-block;
+    position: relative;
+    width: 400px;
+    min-width: 400px;
+    height: 400px;
+    border-radius: 30px;
+    overflow: hidden;
+    box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.3);
+    animation: 5s;
+  }
+
+  .god-description-bk {
+    border-radius: 30px;
+    position: absolute;
+    top: 62%;
+    left: -5px;
+    height: 65%;
+    width: 108%;
+    transform: skew(7deg, -7deg);
+  }
+
+  .god-logo {
+    height: 80px;
+    width: 80px;
+    border-radius: 20px;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    bottom: 30%;
+    left: 30px;
+    overflow: hidden;
+    box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.7);
+  }
+
+  .god-logo img {
+    height: 100%;
+  }
+
+  .god-title {
+    position: absolute;
+    color: #fff;
+    font-weight: 900;
+    left: 150px;
+    bottom: 26%;
+    font-size: 2vw;
+  }
+
+  .god-btn {
+    position: absolute;
+    color: #fff;
+    right: 30px;
+    bottom: 10%;
+  }
+
+  .god-btn a {
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .god-btn {
+    border: 0;
+    border-radius: 12px;
+    color: #ffffff;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 2.5;
+    outline: transparent;
+    padding: 0 1rem;
+    text-align: center;
+    text-decoration: none;
+    transition: box-shadow 0.2s ease-in-out;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+  }
+  .god-date {
+    position: absolute;
+    color: #fff;
+    left: 30px;
+    bottom: 10%;
+  }
+  /* Colores  Cards*/
+  .stack .god-description-bk {
+    background-image: linear-gradient(-20deg, #000000, #054b73c1);
+  }
+  .stack:hover {
+    box-shadow: 0px 2px 5px 0px rgba(10, 102, 152, 0.97),
+      0px 1px 10px 0px rgba(10, 102, 152, 0.97),
+      0px 2px 4px -1px rgba(10, 102, 152, 0.97);
+  }
+  .stack .god-btn {
+    background: linear-gradient(to bottom right, #479bef, #105375);
+  }
+  .stack .god-btn:not([disabled]):focus {
+    box-shadow: 0 0 0.25rem rgba(0, 0, 0, 0.5),
+      -0.125rem -0.125rem 1rem rgba(159, 246, 246, 0.5),
+      0.125rem 0.125rem 1rem rgba(90, 192, 255, 0.5);
+  }
+
+  .stack .god-btn:not([disabled]):hover {
+    box-shadow: 0 0 0.25rem rgba(0, 0, 0, 0.5),
+      -0.125rem -0.125rem 1rem rgba(159, 246, 246, 0.5),
+      0.125rem 0.125rem 1rem rgba(90, 192, 255, 0.5);
+  }
+
+  .senuez .god-description-bk {
+    background-image: linear-gradient(-20deg, #000000, #730505c1);
+  }
+  .senuez:hover {
+    box-shadow: 0px 2px 5px 0px rgba(152, 10, 10, 0.97),
+      0px 1px 10px 0px rgba(152, 10, 10, 0.97),
+      0px 2px 4px -1px rgba(152, 10, 10, 0.97);
+  }
+  .senuez .god-btn {
+    background: linear-gradient(to bottom right, #ef4747, #751010);
+  }
+  .senuez .god-btn:not([disabled]):focus {
+    box-shadow: 0 0 0.25rem rgba(0, 0, 0, 0.5),
+      -0.125rem -0.125rem 1rem rgba(245, 46, 46, 0.5),
+      0.125rem 0.125rem 1rem rgba(255, 90, 90, 0.5);
+  }
+
+  .senuez .god-btn:not([disabled]):hover {
+    box-shadow: 0 0 0.25rem rgba(0, 0, 0, 0.5),
+      -0.125rem -0.125rem 1rem rgba(245, 46, 46, 0.5),
+      0.125rem 0.125rem 1rem rgba(255, 90, 90, 0.5);
+  }
+
+  .me .god-description-bk {
+    background-image: linear-gradient(-20deg, #000000, #05733ec1);
+  }
+  .me:hover {
+    box-shadow: 0px 2px 5px 0px rgba(10, 152, 109, 0.97),
+      0px 1px 10px 0px rgba(48, 152, 10, 0.97),
+      0px 2px 4px -1px rgba(10, 152, 109, 0.97);
+  }
+  .me .god-btn {
+    background: linear-gradient(to bottom right, #47ef60, #101f75);
+  }
+  .me .god-btn:not([disabled]):focus {
+    box-shadow: 0 0 0.25rem rgba(0, 0, 0, 0.5),
+      -0.125rem -0.125rem 1rem rgba(3, 255, 79, 0.5),
+      0.125rem 0.125rem 1rem rgba(90, 255, 120, 0.5);
+  }
+
+  .me .god-btn:not([disabled]):hover {
+    box-shadow: 0 0 0.25rem rgba(0, 0, 0, 0.5),
+      -0.125rem -0.125rem 1rem rgba(3, 255, 79, 0.5),
+      0.125rem 0.125rem 1rem rgba(90, 255, 120, 0.5);
+  }
+
+  .pajaro .god-description-bk {
+    background-image: linear-gradient(-20deg, #000000, #727a06c1);
+  }
+  .pajaro:hover {
+    box-shadow: 0px 2px 5px 0px rgba(152, 150, 10, 0.97),
+      0px 1px 10px 0px rgba(204, 191, 10, 0.97),
+      0px 2px 4px -1px rgba(152, 150, 10, 0.97);
+  }
+  .pajaro .god-btn {
+    background: linear-gradient(to bottom right, #efe447, #5f5f06);
+  }
+  .pajaro .god-btn:not([disabled]):focus {
+    box-shadow: 0 0 0.25rem rgba(0, 0, 0, 0.5),
+      -0.125rem -0.125rem 1rem rgba(255, 188, 3, 0.5),
+      0.125rem 0.125rem 1rem rgba(255, 252, 90, 0.5);
+  }
+
+  .pajaro .god-btn:not([disabled]):hover {
+    box-shadow: 0 0 0.25rem rgba(0, 0, 0, 0.5),
+      -0.125rem -0.125rem 1rem rgba(255, 188, 3, 0.5),
+      0.125rem 0.125rem 1rem rgba(255, 252, 90, 0.5);
+  }
+
+  .temo .god-description-bk {
+    background-image: linear-gradient(-20deg, #000000, #050773c1);
+  }
+  .temo:hover {
+    box-shadow: 0px 2px 5px 0px rgba(10, 29, 152, 0.97),
+      0px 1px 10px 0px rgba(10, 29, 152, 0.97),
+      0px 2px 4px -1px rgba(10, 29, 152, 0.97);
+  }
+  .temo .god-btn {
+    background: linear-gradient(to bottom right, #1f14c4, #171075);
+  }
+  .temo .god-btn:not([disabled]):focus {
+    box-shadow: 0 0 0.25rem rgba(0, 0, 0, 0.5),
+      -0.125rem -0.125rem 1rem rgba(159, 163, 246, 0.5),
+      0.125rem 0.125rem 1rem rgba(90, 112, 255, 0.5);
+  }
+
+  .temo .god-btn:not([disabled]):hover {
+    box-shadow: 0 0 0.25rem rgba(0, 0, 0, 0.5),
+      -0.125rem -0.125rem 1rem rgba(159, 163, 246, 0.5),
+      0.125rem 0.125rem 1rem rgba(90, 112, 255, 0.5);
+  }
+
+  /**/
   .neverContainer {
     display: grid;
     place-items: center;
@@ -89,84 +374,11 @@
     grid-gap: 1rem;
   }
 
-  .card-container {
-    max-width: 1000px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  .card {
-    min-height: 200px;
-    width: 260px;
-    margin: 40px 10px;
-    padding: 1rem;
-    cursor: pointer;
-  }
-  .card img {
-    width: 100%;
-    height: 160px;
-    border-radius: 10px;
-    position: relative;
-    z-index: 1000;
-    transition: all 0.5s ease-in-out;
-  }
-  .card__content {
-    margin: 1rem 0;
-    color: #222;
-    overflow: hidden;
-    margin-top: -200px;
-    opacity: 0;
-    visibility: hidden;
-    transition: all 0.5s ease-in-out;
-  }
-  .card__content h2 {
-    margin: 0.6rem auto;
-    text-align: center;
-  }
-  .card__content p {
-    font-size: 1rem;
-    line-height: 1.4rem;
-    text-align: justify;
-  }
-  .card__content a {
-    width: 200px;
-    padding: 10px 15px;
-    display: block;
-    text-align: center;
-    margin: 0.6rem auto;
-    font-size: 1.1rem;
-    color: #444;
-    text-decoration: none;
-    background-color: #222;
-    border-radius: 10px;
-    transition: 0.3s;
-  }
-  .card__content a:hover {
-    color: #fff;
-    background-color: #000;
-    box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.4);
-  }
-  .card:hover img {
-    margin-top: -60px;
-    box-shadow: 0 0 4px 6px rgba(0, 0, 0, 0.3);
-  }
-  .card:hover > .card__content {
-    margin-top: 0;
-    opacity: 1;
-    visibility: visible;
-  }
   @media screen and (max-width: 800px) {
     .container {
       flex-wrap: wrap;
     }
   }
-
-  /* letras neon */
-  /*  @font-face {
-  font-family: neon;
-  src: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/707108/neon.ttf);
-} */
-
   .container {
     text-align: center;
   }
