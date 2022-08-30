@@ -66,7 +66,7 @@
         <p>22/10/2002</p>
       </div>
       <div class="god-btn">
-        <a href="https://github.com/MarioAlejandro" target="_blank"
+        <a href="https://github.com/MarioRosales10" target="_blank"
           >GitHub mamador</a
         >
       </div>
@@ -151,18 +151,6 @@
     gap: 20px;
     margin-bottom: 20px;
     grid-template-columns: repeat(3, 1fr);
-  }
-
-  /* Tamaño Mediano - Tablets */
-  @media screen and (max-width: 992px) {
-    .cont {
-      grid-template-columns: repeat(1, 1fr);
-    }
-    .god {
-      width: 300px;
-      min-width: 300px;
-      height: 300px;
-    }
   }
 
   /*God cards*/
@@ -505,5 +493,46 @@
     left: 0;
     top: 0;
     border-radius: 10px;
+  }
+
+  /* Resposive*/
+  @media screen and (max-width: 992px) {
+    .cont {
+      grid-template-columns: repeat(1, 1fr);
+    }
+    .god {
+      width: 300px;
+      min-width: 300px;
+      height: 300px;
+    }
+    .god-title {
+      font-size: 3vw !important;
+    }
+  }
+
+  @media screen and (max-width: 576px) {
+    .god-title {
+      font-size: 5vw !important;
+    }
+    .neverContainer {
+      display: grid;
+      grid-template-columns: repeat(1, 1fr);
+    }
+    div h2 {
+      text-align: center;
+      padding-bottom: 5px;
+    }
+    .button-85 {
+      width: 100%;
+      margin-left: 35%;
+      margin-top: 50px;
+    }
+    .god-btn {
+      font-size: 3vw !important;
+    }
+
+    h1 {
+      font-size: 8vw !important;
+    }
   }
 </style>

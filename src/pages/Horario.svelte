@@ -139,7 +139,7 @@
         src="https://dsm01pap001files.storage.live.com/y4mWQgmkw7QPWCcK8B46l7_EkiP_g_of_bYD3-5xD5nqm-Gt3XI7zy9HAB5Oq21L5vWWXoDbDyNxaovgNzlHrDOaj0rmXHkeFFqvRoYcC594OSgiWLr9_vGUF3m250FNWQzQRXciGMTJzWcJmWIQH1fkwpe4LNhfRpLk59V_txxIgRrQcVLD5ZvkiEBrX9kpmti?width=600&height=400&cropmode=none"
         alt="Horario"
         class="horario-img"
-        style="width:100%;max-width:300px"
+        style="width:100%;max-width:300px margin:auto;"
       />
       <br />
       <div class="links grid col-3 med-col-3 peq-col-1">
