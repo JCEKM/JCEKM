@@ -6,6 +6,7 @@ import {getFirestore} from "firebase/firestore";
 import { user } from "./users/User";
 
 const firebaseConfig = {
+  
   apiKey: "AIzaSyDZ6OZVrmCS8y387cvNyG8dwRTe4wYmI-U",
   authDomain: "jcekm-b86ba.firebaseapp.com",
   projectId: "jcekm-b86ba",

@@ -15,7 +15,7 @@
 
   .img-container {
     min-height: 80vh;
-    background-image: url(https://www.jcek.tk/IMAGENES/fnd.gif);
+    background-image: url(/img/fnd.gif);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
